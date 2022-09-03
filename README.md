@@ -4,10 +4,23 @@
 🌱 &nbsp;In the near future I intend to focus on developing my skills in Spring Framework and Angular
 
 ## <b>*GitHub Stats*:</b> 
-<a href="https://github.com/Franek-Antoniak">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Franek-Antoniak&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" height="180" />
-</a>
+<table>
+<tr>
+  
+  <td>
+  <a href="https://github.com/Franek-Antoniak">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Franek-Antoniak&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" height="180" />
+  </a>
+  </td>
     
+  <td> 
+  <a href="https://github.com/Franek-Antoniak">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franek-Antoniak&hide=python,html,css,freemarker,powershell,batchfile&layout=compact&theme=radical&hide_border=true" height="180"/>
+  </a>
+  </td>
+    
+</tr>
+</table>
 
 
 ## <b>*Contact me via*:</b>
@@ -15,13 +28,13 @@
 <table>
   <td>
   <a href="https://www.linkedin.com/in/franciszek-antoniak">
-  ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="60"/>
   </a>
   </td>
     
   <td> 
   <a href="https://discord.gg/2YdFutsPhJ">
-  ![discord](https://discordapp.com/api/guilds/1015389121017040946/widget.png?style=banner2)
+  <img align="center" src="https://discordapp.com/api/guilds/1015389121017040946/widget.png?style=banner2" height="60"/>
   </a>
   </td>
 </table>
