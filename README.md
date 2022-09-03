@@ -15,13 +15,13 @@
 <table>
   <td>
   <a href="https://www.linkedin.com/in/franciszek-antoniak">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="60"/>
+  ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
   </a>
   </td>
     
   <td> 
   <a href="https://discord.gg/2YdFutsPhJ">
-  <img align="center" src="https://discordapp.com/api/guilds/1015389121017040946/widget.png?style=banner2" height="60"/>
+  ![discord](https://discordapp.com/api/guilds/1015389121017040946/widget.png?style=banner2)
   </a>
   </td>
 </table>
