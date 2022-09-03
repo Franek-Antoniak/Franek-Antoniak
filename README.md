@@ -4,23 +4,10 @@
 🌱 &nbsp;In the near future I intend to focus on developing my skills in Spring Framework and Angular
 
 ## <b>*GitHub Stats*:</b> 
-<table>
-<tr>
-  
-  <td>
-  <a href="https://github.com/Franek-Antoniak">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Franek-Antoniak&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" height="180" />
-  </a>
-  </td>
+<a href="https://github.com/Franek-Antoniak">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Franek-Antoniak&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" height="180" />
+</a>
     
-  <td> 
-  <a href="https://github.com/Franek-Antoniak">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franek-Antoniak&hide=python,html,css,freemarker,powershell,batchfile&layout=compact&theme=radical&hide_border=true" height="180"/>
-  </a>
-  </td>
-    
-</tr>
-</table>
 
 
 ## <b>*Contact me via*:</b>
