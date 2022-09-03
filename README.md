@@ -25,12 +25,16 @@
 
 ## <b>*Contact me via*:</b>
 
-<p align="center">
- 
-<a href="https://pl.linkedin.com/in/franciszek-antoniak?trk=profile-badge">
-<img alt="Python" width="285" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://discord.gg/YTAsqYEHac">
-<img alt="Python" width="300" src="https://discordapp.com/api/guilds/1015389121017040946/widget.png?style=banner2">
-</a>
-</p>  
+<table>
+  <td>
+  <a href="https://www.linkedin.com/in/franciszek-antoniak">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="60"/>
+  </a>
+  </td>
+    
+  <td> 
+  <a href="https://discord.gg/2YdFutsPhJ">
+  <img align="center" src="https://discordapp.com/api/guilds/1015389121017040946/widget.png?style=banner2" height="60"/>
+  </a>
+  </td>
+</table>
