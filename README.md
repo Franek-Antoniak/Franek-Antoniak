@@ -13,11 +13,6 @@
   </a>
   </td>
     
-  <td> 
-  <a href="https://github.com/Franek-Antoniak">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franek-Antoniak&hide=python,html,css,freemarker,powershell,batchfile&layout=compact&theme=radical&hide_border=true" height="180"/>
-  </a>
-  </td>
     
 </tr>
 </table>
