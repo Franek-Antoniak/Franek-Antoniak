@@ -1,7 +1,7 @@
 # <b>*About Me*:</b> 
 🎓 &nbsp;I'm currently studying Computer Science at Polish-Japanese Academy of Information Technology \
 👨‍💻 &nbsp;Lately I've been finishing and improving my unfinished former projects \
-🌱 &nbsp;In the near future I intend to focus on developing my skills in Spring Framework and Angular
+🌱 &nbsp;In the near future I intend to focus on developing my skills in Spring Framework and NextJs
 
 ## <b>*GitHub Stats*:</b> 
 <table>
