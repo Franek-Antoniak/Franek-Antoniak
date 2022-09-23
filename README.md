@@ -25,7 +25,7 @@
   <a href="https://www.discord.com">
     <img src="https://img.shields.io/badge/Paco%232181-5865f2?&style=for-the-badge&logo=Discord&logoColor=white"/>
   </a>
-  <a href="mailto:franekant123@gmail.com/?subject=Hey,%20I%20want%20to%20contact%20you!%22">
+  <a href="mailto:franekant123@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
