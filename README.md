@@ -1,12 +1,17 @@
 <div align="center">
-      <h1>About Me</h1>
+      <h1>About Me 👨‍🎓</h1>
 </div>
+
+
+
+
+
+
 <a>🎓 &nbsp;I'm currently studying Computer Science at Polish-Japanese Academy of Information Technology</a>
 <br>
 <a>👨‍💻 &nbsp;Lately I've been finishing and improving my unfinished former projects</a>
 <br>
 <a>🌱 &nbsp;In the near future I intend to focus on developing my skills in Spring Framework and NextJs</a>
-
 
 <div align="center">
   <h2> Github Statistics 📈 &nbsp;</h2>
@@ -16,9 +21,14 @@
   </a>
 </div>
 
+<div align="center">
+      <h2>Weekly development breakdown 📊 &nbsp</h2>
+      <!--START_SECTION:waka-->
+      <!--END_SECTION:waka-->
+</div>
 
 <div id="footer" align="center">
-  <h1>Contact me!</h1>
+  <h3>Contact me!</h3>
   <a href="https://www.linkedin.com/in/franciszek-antoniak/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
