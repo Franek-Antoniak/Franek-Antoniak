@@ -17,12 +17,7 @@
 </div>
 
 <div align="center">
-      <!--START_SECTION:waka-->
-
-```text
-Java       2 hrs 16 mins   ███████████████████████░░   91.64 %
-Markdown   12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
-```
+<!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
 </div>
