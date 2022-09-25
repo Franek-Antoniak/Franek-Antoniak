@@ -16,12 +16,10 @@
   </a>
 </div>
 
-<!--- Not working yet
 <div align="center">
-      <h2>Weekly development breakdown 📊 &nbsp</h2>
-      <img height="180em" src="http://github-readme-stats-local-franek-antoniak.vercel.app/api/wakatime?username=Franek-Antoniak&layout=compact&range=last_7_days" />
+      <!--START_SECTION:waka-->
+      <!--END_SECTION:waka-->
 </div>
--->
 
 <div id="footer" align="center">
   <h1>Contact me!</h1>
