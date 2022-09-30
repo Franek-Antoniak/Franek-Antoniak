@@ -20,15 +20,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 September 2022 - To: 28 September 2022
+From: 22 September 2022 - To: 29 September 2022
 
-Total Time: 21 hrs 22 mins
+Total Time: 21 hrs 52 mins
 
-Java              19 hrs 25 mins  >>>>>>>>>>>>>>>>>>>>>>>--   90.86 %
-Markdown          58 mins         >------------------------   04.53 %
-Text              48 mins         >------------------------   03.81 %
-textmate          5 mins          -------------------------   00.42 %
-Bash              4 mins          -------------------------   00.33 %
+Java              19 hrs 54 mins  >>>>>>>>>>>>>>>>>>>>>>>--   91.01 %
+Markdown          58 mins         >------------------------   04.48 %
+Text              48 mins         >------------------------   03.72 %
+textmate          5 mins          -------------------------   00.41 %
+Bash              4 mins          -------------------------   00.32 %
 AUTO_DETECTED     0 secs          -------------------------   00.03 %
 ```
 
