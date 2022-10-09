@@ -20,16 +20,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 September 2022 - To: 07 October 2022
+From: 01 October 2022 - To: 08 October 2022
 
-Total Time: 14 hrs 22 mins
+Total Time: 13 hrs 37 mins
 
-Java             13 hrs 38 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   94.94 %
-Markdown         38 mins         >------------------------   04.45 %
-Text             3 mins          -------------------------   00.45 %
-Groovy           0 secs          -------------------------   00.08 %
-AUTO_DETECTED    0 secs          -------------------------   00.04 %
+Java             12 hrs 56 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   94.97 %
+Markdown         38 mins         >------------------------   04.69 %
+Text             1 min           -------------------------   00.20 %
+Groovy           0 secs          -------------------------   00.09 %
 Gradle           0 secs          -------------------------   00.04 %
+AUTO_DETECTED    0 secs          -------------------------   00.02 %
 ```
 
 <!--END_SECTION:waka-->
