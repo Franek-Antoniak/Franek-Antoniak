@@ -20,12 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 October 2022 - To: 13 October 2022
-
-Total Time: 4 mins
-
-Java            4 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   98.17 %
-AUTO_DETECTED   0 secs          -------------------------   01.83 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
