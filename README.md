@@ -20,16 +20,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 October 2022 - To: 23 October 2022
+From: 17 October 2022 - To: 24 October 2022
 
-Total Time: 25 hrs 46 mins
+Total Time: 18 hrs 28 mins
 
-Java             15 hrs 30 mins  >>>>>>>>>>>>>>>----------   60.20 %
-Properties       2 hrs 48 mins   >>>----------------------   10.88 %
-FTL              2 hrs 23 mins   >>-----------------------   09.26 %
-JavaScript       2 hrs 3 mins    >>-----------------------   07.97 %
-Markdown         1 hr 7 mins     >------------------------   04.33 %
-YAML             41 mins         >------------------------   02.69 %
+Java             10 hrs 52 mins  >>>>>>>>>>>>>>>----------   58.92 %
+Properties       1 hr 57 mins    >>>----------------------   10.62 %
+JavaScript       1 hr 56 mins    >>>----------------------   10.54 %
+FTL              1 hr 9 mins     >>-----------------------   06.25 %
+Markdown         59 mins         >------------------------   05.34 %
+YAML             41 mins         >------------------------   03.76 %
 ```
 
 <!--END_SECTION:waka-->
