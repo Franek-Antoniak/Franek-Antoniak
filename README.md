@@ -20,16 +20,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 October 2022 - To: 27 October 2022
+From: 21 October 2022 - To: 28 October 2022
 
-Total Time: 10 hrs 28 mins
+Total Time: 12 hrs 6 mins
 
-Java             8 hrs 28 mins   >>>>>>>>>>>>>>>>>>>>-----   80.91 %
-Markdown         1 hr 16 mins    >>>----------------------   12.17 %
-Groovy           26 mins         >------------------------   04.25 %
-Gradle           5 mins          -------------------------   00.95 %
-Properties       5 mins          -------------------------   00.80 %
-JavaScript       2 mins          -------------------------   00.47 %
+Java             11 hrs 2 mins   >>>>>>>>>>>>>>>>>>>>>>>--   91.22 %
+Groovy           26 mins         >------------------------   03.69 %
+Markdown         25 mins         >------------------------   03.57 %
+Gradle           3 mins          -------------------------   00.51 %
+JavaScript       2 mins          -------------------------   00.40 %
+Properties       1 min           -------------------------   00.22 %
 ```
 
 <!--END_SECTION:waka-->
