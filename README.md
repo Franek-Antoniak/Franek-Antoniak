@@ -20,16 +20,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 October 2022 - To: 05 November 2022
+From: 31 October 2022 - To: 07 November 2022
 
-Total Time: 22 hrs 52 mins
+Total Time: 12 hrs 21 mins
 
-Java             10 hrs 8 mins   >>>>>>>>>>>--------------   44.32 %
-YAML             4 hrs 23 mins   >>>>>--------------------   19.20 %
-Docker           3 hrs 4 mins    >>>----------------------   13.45 %
-Groovy           1 hr 45 mins    >>-----------------------   07.68 %
-Properties       1 hr 32 mins    >>-----------------------   06.71 %
-Gradle           28 mins         >------------------------   02.08 %
+Java             8 hrs 16 mins   >>>>>>>>>>>>>>>>>--------   66.96 %
+Docker           58 mins         >>-----------------------   07.91 %
+Groovy           44 mins         >>-----------------------   06.05 %
+YAML             30 mins         >------------------------   04.06 %
+Properties       27 mins         >------------------------   03.76 %
+Gradle           22 mins         >------------------------   02.99 %
 ```
 
 <!--END_SECTION:waka-->
