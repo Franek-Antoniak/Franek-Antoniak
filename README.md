@@ -20,14 +20,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 November 2022 - To: 16 November 2022
+From: 10 November 2022 - To: 17 November 2022
 
-Total Time: 38 hrs 32 mins
+Total Time: 38 hrs 14 mins
 
-Java               26 hrs 36 mins  >>>>>>>>>>>>>>>>>--------   69.04 %
-Python             10 hrs 26 mins  >>>>>>>------------------   27.11 %
-Text               26 mins         -------------------------   01.15 %
-Groovy             20 mins         -------------------------   00.90 %
+Java               25 hrs 35 mins  >>>>>>>>>>>>>>>>>--------   66.93 %
+Python             11 hrs 9 mins   >>>>>>>------------------   29.19 %
+Text               26 mins         -------------------------   01.16 %
+Groovy             20 mins         -------------------------   00.91 %
 Gradle             12 mins         -------------------------   00.55 %
 GitIgnore file     11 mins         -------------------------   00.49 %
 ```
