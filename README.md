@@ -20,16 +20,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 November 2022 - To: 20 November 2022
+From: 14 November 2022 - To: 21 November 2022
 
-Total Time: 19 hrs 42 mins
+Total Time: 12 hrs 55 mins
 
-Java                  9 hrs 31 mins   >>>>>>>>>>>>-------------   48.33 %
-Python                8 hrs 59 mins   >>>>>>>>>>>--------------   45.62 %
-HTTP Request          18 mins         -------------------------   01.57 %
-Text                  11 mins         -------------------------   00.96 %
-Groovy                10 mins         -------------------------   00.86 %
-Gradle                8 mins          -------------------------   00.68 %
+Java                  8 hrs 24 mins   >>>>>>>>>>>>>>>>---------   64.99 %
+Python                3 hrs 13 mins   >>>>>>-------------------   24.99 %
+HTTP Request          18 mins         >------------------------   02.39 %
+Text                  11 mins         -------------------------   01.47 %
+Groovy                11 mins         -------------------------   01.42 %
+Properties            8 mins          -------------------------   01.10 %
 ```
 
 <!--END_SECTION:waka-->
