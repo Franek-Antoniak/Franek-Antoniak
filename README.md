@@ -40,9 +40,6 @@ FTL          2 mins          -------------------------   00.34 %
   <a href="https://www.linkedin.com/in/franciszek-antoniak/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.discord.com">
-    <img src="https://img.shields.io/badge/Paco%232181-5865f2?&style=for-the-badge&logo=Discord&logoColor=white"/>
-  </a>
   <a href="mailto:franekant123@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
