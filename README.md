@@ -20,16 +20,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 December 2022 - To: 10 December 2022
+From: 05 December 2022 - To: 12 December 2022
 
-Total Time: 9 hrs 51 mins
+Total Time: 5 hrs 58 mins
 
-Java             5 hrs 4 mins    >>>>>>>>>>>>>------------   51.54 %
-HTML             1 hr 17 mins    >>>----------------------   13.18 %
-Groovy           1 hr 9 mins     >>>----------------------   11.76 %
-XML              57 mins         >>-----------------------   09.75 %
-Gradle           27 mins         >------------------------   04.70 %
-Properties       19 mins         >------------------------   03.32 %
+Java             3 hrs 52 mins   >>>>>>>>>>>>>>>>---------   64.67 %
+XML              46 mins         >>>----------------------   12.84 %
+HTML             36 mins         >>>----------------------   10.20 %
+Groovy           25 mins         >>-----------------------   07.04 %
+CSS              7 mins          >------------------------   02.22 %
+Properties       5 mins          -------------------------   01.53 %
 ```
 
 <!--END_SECTION:waka-->
