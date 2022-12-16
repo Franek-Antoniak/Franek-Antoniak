@@ -3,10 +3,6 @@
 </div>
 
 <a>🎓 &nbsp;I'm currently studying Computer Science at Polish-Japanese Academy of Information Technology</a>
-<br>
-<a>👨‍💻 &nbsp;Lately I've been finishing and improving my unfinished former projects</a>
-<br>
-<a>🌱 &nbsp;In the near future I intend to focus on developing my skills in Microservices and Spring Cloud</a>
 
 <div align="center">
   <h1> Github Statistics 📈 &nbsp;</h1>
