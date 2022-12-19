@@ -7,7 +7,7 @@
 <div align="center">
   <h1> Github Statistics 📈 &nbsp;</h1>
   <a href="https://github.com/Franek-Antoniak">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Franek-Antoniak&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Franek-Antoniak&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franek-Antoniak&layout=compact&theme=github_dark&cache_seconds=7200"/>
   </a>
 </div>
