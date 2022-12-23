@@ -15,16 +15,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 December 2022 - To: 20 December 2022
+From: 14 December 2022 - To: 21 December 2022
 
-Total Time: 12 hrs 30 mins
+Total Time: 10 hrs 12 mins
 
-Java             11 hrs 43 mins  >>>>>>>>>>>>>>>>>>>>>>>--   93.78 %
-Properties       10 mins         -------------------------   01.46 %
-Markdown         10 mins         -------------------------   01.35 %
-GitIgnore file   9 mins          -------------------------   01.21 %
-XML              8 mins          -------------------------   01.10 %
-YAML             2 mins          -------------------------   00.37 %
+Java             9 hrs 23 mins   >>>>>>>>>>>>>>>>>>>>>>>--   92.02 %
+GitIgnore file   11 mins         -------------------------   01.84 %
+Properties       10 mins         -------------------------   01.78 %
+Markdown         10 mins         -------------------------   01.65 %
+XML              8 mins          -------------------------   01.35 %
+YAML             2 mins          -------------------------   00.45 %
 ```
 
 <!--END_SECTION:waka-->
