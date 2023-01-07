@@ -15,16 +15,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 December 2022 - To: 04 January 2023
+From: 29 December 2022 - To: 05 January 2023
 
-Total Time: 38 hrs 25 mins
+Total Time: 40 hrs 49 mins
 
-Java                  30 hrs 40 mins  >>>>>>>>>>>>>>>>>>>>-----   79.83 %
-HTTP Request          2 hrs 11 mins   >------------------------   05.70 %
-HTML                  1 hr 1 min      >------------------------   02.65 %
-XML                   47 mins         >------------------------   02.08 %
-Docker                46 mins         >------------------------   02.00 %
-Bash                  38 mins         -------------------------   01.67 %
+Java                  30 hrs 12 mins  >>>>>>>>>>>>>>>>>>-------   73.99 %
+HTTP Request          2 hrs 11 mins   >------------------------   05.36 %
+HTML                  2 hrs 4 mins    >------------------------   05.09 %
+CSS                   1 hr 45 mins    >------------------------   04.32 %
+XML                   47 mins         -------------------------   01.96 %
+Docker                46 mins         -------------------------   01.88 %
 ```
 
 <!--END_SECTION:waka-->
