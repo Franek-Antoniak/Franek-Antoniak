@@ -15,16 +15,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 January 2023 - To: 14 January 2023
+From: 08 January 2023 - To: 15 January 2023
 
-Total Time: 12 hrs 26 mins
+Total Time: 9 hrs 23 mins
 
-Java             10 hrs 24 mins  >>>>>>>>>>>>>>>>>>>>>----   83.60 %
-HTML             53 mins         >>-----------------------   07.18 %
-XML              44 mins         >>-----------------------   06.01 %
-YAML             15 mins         >------------------------   02.11 %
-Markdown         2 mins          -------------------------   00.34 %
-Properties       2 mins          -------------------------   00.32 %
+Java             8 hrs 44 mins   >>>>>>>>>>>>>>>>>>>>>>>--   93.03 %
+HTML             27 mins         >------------------------   04.92 %
+XML              6 mins          -------------------------   01.09 %
+HTTP Request     2 mins          -------------------------   00.41 %
+Properties       2 mins          -------------------------   00.41 %
+SQL              0 secs          -------------------------   00.08 %
 ```
 
 <!--END_SECTION:waka-->
