@@ -1,5 +1,5 @@
 <div align="center">
-      <h1>About Me 👨‍🎓</h1>
+   <h1>About Me 👨‍🎓</h1>
 </div>
 
 <a>🎓 &nbsp;I'm currently studying Computer Science at Polish-Japanese Academy of Information Technology</a>
