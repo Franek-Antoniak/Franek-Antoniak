@@ -12,22 +12,6 @@
 </div>
 
 <div align="center">
-<!--START_SECTION:waka-->
-
-```text
-From: 09 January 2023 - To: 16 January 2023
-
-Total Time: 3 hrs 47 mins
-
-Java             3 hrs 42 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   97.83 %
-HTTP Request     2 mins          -------------------------   01.02 %
-XML              1 min           -------------------------   00.79 %
-IDEA_MODULE      0 secs          -------------------------   00.15 %
-GitIgnore file   0 secs          -------------------------   00.14 %
-Text             0 secs          -------------------------   00.07 %
-```
-
-<!--END_SECTION:waka-->
 </div>
 
 <div id="footer" align="center">
